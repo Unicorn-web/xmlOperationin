@@ -1,0 +1,23 @@
+<root>
+  <hero name="赵云" atk="35" def="12" hp="1000">
+    <bag>
+      <item id="10025" name="青釭剑" />
+      <item id="10026" name="大还丹" />
+      <item id="10035" name="铁剑" />
+    </bag>
+  </hero>
+  <hero name="马超" atk="32" def="11" hp="1100">
+    <bag>
+      <item id="10029" name="大宛马" />
+      <item id="10026" name="大还丹" />
+      <item id="10035" name="铁剑" />
+    </bag>
+  </hero>
+  <hero name="关羽" atk="36" def="11" hp="1200">
+    <bag>
+      <item id="10099" name="赤兔马" />
+      <item id="100222" name="青龙偃月刀" />
+      <item id="10035" name="铁剑" />
+    </bag>
+  </hero>
+</root>

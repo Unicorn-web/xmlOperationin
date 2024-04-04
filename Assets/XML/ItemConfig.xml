@@ -1,0 +1,9 @@
+<root>
+	<Item id="10" type="2" name="小红药" iconPath="ItemIcons/hp_10" buyPrice="100" sellPrice="50" desc="+HP 100" maxNum="999" hp="100" mp="0" atk="0" def="0"/>
+	<Item id="11" type="2" name="小蓝药" iconPath="ItemIcons/mp_11" buyPrice="100" sellPrice="50" desc="+MP 110" maxNum="999" hp="0" mp="200" atk="0" def="0"/>
+	<Item id="21" type="3" name="铁剑" iconPath="ItemIcons/sword_21" buyPrice="210" sellPrice="100" desc="+ATK 210" maxNum="999" hp="0" mp="0" atk="210" def="0"/>
+	<Item id="31" type="3" name="铁弓" iconPath="ItemIcons/bow_31" buyPrice="310" sellPrice="150" desc="+ATK 310" maxNum="999" hp="0" mp="0" atk="310" def="0"/>
+	<Item id="41" type="3" name="铁斧" iconPath="ItemIcons/axe_41" buyPrice="410" sellPrice="200" desc="+ATK 410" maxNum="999" hp="0" mp="0" atk="410" def="0"/>
+	<Item id="51" type="3" name="铁胸甲" iconPath="ItemIcons/Jacket_51" buyPrice="510" sellPrice="250" desc="+ATK 510" maxNum="999" hp="0" mp="0" atk="0" def="510"/>
+	<Item id="61" type="3" name="铁头盔" iconPath="ItemIcons/Helmet_61" buyPrice="610" sellPrice="300" desc="+ATK 610" maxNum="999" hp="0" mp="0" atk="0" def="610"/>
+</root>
